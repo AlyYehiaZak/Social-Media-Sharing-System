@@ -1,1 +1,1 @@
-# Social-Media-Sharing-System
+This project involves the development of a UiPath bot designed to automate daily social media sharing on Instagram. The process starts with retrieving a random quote using the GPT API, followed by generating a corresponding image with the quote, and finally posting the content directly to Instagram.
